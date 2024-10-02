@@ -62,19 +62,12 @@ LLaMA는 엔비디아의 GPGPU 자원을 통한 인프라를 구축했으나, �
 
   + **이야기 요청**: "한 여름밤의 꿈 같은 이야기 만들어줘."
    ![oss_소설_한여름](https://github.com/user-attachments/assets/073d0cf8-5c4f-4658-9190-109c874977f6)
-![oss_시_사랑](https://github.com/user-attachments/assets/480a0f6c-b555-4286-a865-db122a480b51)
-![oss_가사_희망](https://github.com/user-attachments/assets/f2614723-4d3a-497d-9368-47643b869464)
 
   + **시 요청**: "사랑에 관한 아름다운 시를 써줘."
-    ![oss_소설_한여름](https://github.com/user-attachments/assets/073d0cf8-5c4f-4658-9190-109c874977f6)
 ![oss_시_사랑](https://github.com/user-attachments/assets/480a0f6c-b555-4286-a865-db122a480b51)
-![oss_가사_희망](https://github.com/user-attachments/assets/f2614723-4d3a-497d-9368-47643b869464)
 
   + **노래 요청**: "희망에 관한 감동적인 노래 가사를 만들어줘."
-    ![oss_소설_한여름](https://github.com/user-attachments/assets/073d0cf8-5c4f-4658-9190-109c874977f6)
-![oss_시_사랑](https://github.com/user-attachments/assets/480a0f6c-b555-4286-a865-db122a480b51)
 ![oss_가사_희망](https://github.com/user-attachments/assets/f2614723-4d3a-497d-9368-47643b869464)
-
 
 
 
