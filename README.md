@@ -79,6 +79,8 @@ LLaMA는 엔비디아의 GPGPU 자원을 통한 인프라를 구축했으나, �
 
 
 
+
+
 2. 코드 작성 및 디버깅 기능
 Llama3는 대규모 언어 모델로, 코드 작성 및 디버깅에 유용한 기능들을 제공한다. 이러한 기능은 개발자들이 코드 품질을 향상시켜 생산성을 높인다. 이 모델을 통해 반복적인 작업에서 벗어나 창의적인 문제 해결에 집중할 수 있게 된다.
 
@@ -120,5 +122,10 @@ Llama3는 대규모 언어 모델로, 코드 작성 및 디버깅에 유용한 �
     
 
 + 사용 예시
+  + 파이썬으로 간단한 계산기 만들어줘.
+![oss_code_1](https://github.com/user-attachments/assets/ff5c1090-1bba-4a6f-973c-610ff69c1497)
+![oss_cod_2](https://github.com/user-attachments/assets/92db0712-7765-4513-888f-12e0906d7f4f)
+![oss_code_3](https://github.com/user-attachments/assets/11011a65-1314-4bdc-a6fb-7dcc42a4bcfa)
+ 
 
      
