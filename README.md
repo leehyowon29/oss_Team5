@@ -58,17 +58,29 @@ LLaMA는 엔비디아의 GPGPU 자원을 통한 인프라를 구축했으나, �
 
 1. 뉴스
 ![질문](https://github.com/user-attachments/assets/c0cad542-742e-43d3-b5c2-55e738f9dde3)
-By Deidre McPhillips,"Free Covid-19 tests are available again. Here’s how to get them",CNN, 2024,09.26
-![답변](https://github.com/user-attachments/assets/338f6d64-bee0-4752-a2f6-37714db7e585)
+By Deidre McPhillips/"Free Covid-19 tests are available again. Here’s how to get them"/CNN/2024,09.26
+![답변](https://github.com/user-attachments/assets/338f6d64-bee0-4752-a2f6-37714db7e585
 
-3. 논문
+2. 논문
+![image](https://github.com/user-attachments/assets/dfab6cf8-76b7-45e8-8e49-b978eebc51c9)
+Li Yang, Shasha Liu, Jinyan Liu, Zhixin Zhang, Xiaochun Wan, Bo Huang, Youhai Chen & Yi Zhang/"COVID-19: immunopathogenesis and Immunotherapeutics"/Signal Transduction and Targeted Therapy/ 5, Article number: 128 (2020)/p.2
+![image](https://github.com/user-attachments/assets/841e07ef-2d39-47c3-b940-286aae0e0774)
 
-4. 한국어 뉴스
+3. 한국어 뉴스
+![image](https://github.com/user-attachments/assets/40b472e5-bff9-4882-ae05-01fb940870f7)
+내 손안에 서울/"황홀한 가을밤…서울세계불꽃축제! 교통통제 구간은?"/내 손안에 서울/2024.10.02
+![image](https://github.com/user-attachments/assets/fd358620-f029-4c17-886d-5e8e988dda9f)
 
-5. 한국어 논문
+4. 한국어 논문
+![image](https://github.com/user-attachments/assets/8c386679-c24c-47db-b003-42c036201f48)
+황응수,박정규, 차창용/"바이러스 감염에 대한 면역반응"/대한면역학회/2004년/p.74
+![image](https://github.com/user-attachments/assets/40579734-a9db-4e49-91ef-b7c92ff62637)
+
+우수한 성능을 보였으나 특정 분야에 대한 전문 용어와 지식이 포함된 문서에서는 다소 부족한 성능을 보였습니다.
+한국어 기능도 지원은 하나 영어와 비교했을 때는 부족한 성능을 보였습니다.
 
 #### 5. 제한 사항
-1. 텍스트 복잡성:  라마의 문서 요약기는 명확하게 구조화된 문서에서 가장 잘 작동합니다. 모호하거나 제대로 정리되지 않은 내용으로 인해 어려움을 겪을 수 있습니다.
+1. 텍스트 복잡성:  라마의 문서 요약기는 명확하게 구조화된 문서에서 가장 잘 작동합니다. 그러나 모호하거나 제대로 정리되지 않은 내용으로 인해 어려움을 겪을 수 있습니다.
 2. 도메인 지식: 다른 NLP 모델과 마찬가지로 특정 분야에 대한 전문 용어와 지식에 따라 성능이 달라질 수 있습니다.
 3. 맥락적 고려:  일부 정보는 문맥이나 뉘앙스에 따라 다르며, 모델이 이러한 세부 정보를 완전히 포착하지 못할 수도 있습니다.
 
