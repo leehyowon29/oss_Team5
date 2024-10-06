@@ -20,7 +20,8 @@ LLaMA는 엔비디아의 GPGPU 자원을 통한 인프라를 구축했으나, �
 해당 토큰은 페이스북, 인스타그램 등 메타의 패밀리앱 외에도 웹스크래핑/크롤링, 깃허브 코드, 위키피디아 텍스트, 퍼블릭 도메인 서적, LaTeX 코드로 작성된 논문, 질문질답 텍스트 등으로 학습되었다고 한다.
 
 ---
-# 2. License
+# 2. LLaMA 3 License
+>[LLaMA 3 깃허브 LICENSE 문서](https://github.com/meta-llama/llama3/blob/main/LICENSE)
 
 ---
 # 3. 기능 설명 및 원리
