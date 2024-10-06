@@ -7,6 +7,9 @@
 + 전자공학부 인공지능전공/2024003120/이가령 (GaRyeong9828)
 ---
 # 1. Introduction
+>![image](https://github.com/user-attachments/assets/ade33c07-f448-42af-8cd3-e17b3dc4fb05)
+>[LLaMA 3 Official Github](https://github.com/meta-llama/llama3)
+
 LLaMA 3는 Large Language Model Meta AI의 줄임말로 메타(구. 페이스북)에서 주도하는 오픈소스 언어모델이다.
 2023년 2월 24일 LLaMA-1이 처음 공개 되었고, 이후 2023년 7월 18일에 LLaMA-2로 한번의 성능 향상을 이룬 뒤, 기업과 상용 모두에 공개하면서 관심을 끌기 시작한다.
 2024년 4월 18일, 현재의 LLaMA-3가 공개되었고, 현재 meta.ai를 통해 영미권 국가들을 우선 대상으로 인스타그램 등 메타의 플랫폼에 챗봇으로 도입되었다.
