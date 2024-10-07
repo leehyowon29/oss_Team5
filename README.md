@@ -34,13 +34,13 @@ LLaMA는 엔비디아의 GPGPU 자원을 통한 인프라를 구축했으나, �
 
 <a name="chapter"></a>
 # 3. 목차
-><a href="title">제목</a>
-><a href="team">팀원</a>
->1. <a href="introduction">개요</a>
->2. <a href="license">LLaMA 3 라이선스</a>
->3. <a href="chapter">목차</a>
->4. <a href="function">기능 설명 및 원리</a>
->5. <a href="similar_LLM">유사한 기능의 LLM</a>
+><a href="#title">제목</a></br>
+><a href="#team">팀원</a>
+>1. <a href="#introduction">개요</a>
+>2. <a href="#license">LLaMA 3 라이선스</a>
+>3. <a href="#chapter">목차</a>
+>4. <a href="#function">기능 설명 및 원리</a>
+>5. <a href="#similar_LLM">유사한 기능의 LLM</a>
 >6. <a href="#future">인공지능의 방향성</a>
 
 ---
