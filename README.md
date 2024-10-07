@@ -1,12 +1,15 @@
-# 제목 : LLaMA 3 에 대해 알아보자<a name="title"></a>
+<a name="title"></a>
+# 제목 : LLaMA 3 에 대해 알아보자
 ---
-## 팀원 : <a name="team"></a>
+<a name="team"></a>
+## 팀원 :
 + 통계학과/2024009762/이효원 (leehyowon29) (팀장)
 + 전자공학부 모바일공학전공/2024007587/홍은지 (zjseltus)
 + 통계학과/2024002789/이한선 (ihanseon)
 + 전자공학부 인공지능전공/2024003120/이가령 (GaRyeong9828)
 ---
-# 1. Introduction <a name="introduction"></a>
+<a name="introduction"></a>
+# 1. Introduction 
 >![image](https://github.com/user-attachments/assets/ade33c07-f448-42af-8cd3-e17b3dc4fb05)
 >[LLaMA 3 Official Github](https://github.com/meta-llama/llama3)
 
@@ -23,12 +26,14 @@ LLaMA는 엔비디아의 GPGPU 자원을 통한 인프라를 구축했으나, �
 해당 토큰은 페이스북, 인스타그램 등 메타의 패밀리앱 외에도 웹스크래핑/크롤링, 깃허브 코드, 위키피디아 텍스트, 퍼블릭 도메인 서적, LaTeX 코드로 작성된 논문, 질문질답 텍스트 등으로 학습되었다고 한다.
 
 ---
-# 2. LLaMA 3 License <a name="license"></a>
+<a name="license"></a>
+# 2. LLaMA 3 License
 >[LLaMA 3 깃허브 LICENSE 문서](https://github.com/meta-llama/llama3/blob/main/LICENSE)
 
 ---
 
-# 3. 목차 <a name="chapter"></a>
+<a name="chapter"></a>
+# 3. 목차
 ><a href="title">제목</a>
 ><a href="team">팀원</a>
 >1. <a href="introduction">개요</a>
@@ -40,7 +45,8 @@ LLaMA는 엔비디아의 GPGPU 자원을 통한 인프라를 구축했으나, �
 
 ---
 
-# 4. 기능 설명 및 원리 <a name="function"></a>
+<a name="function"></a>
+# 4. 기능 설명 및 원리
 ## 다언어 번역 기능
 
 >### The limits of my language means the limits of my world. </br>언어의 한계는 세계의 한계다.
@@ -307,7 +313,8 @@ Llama 3.1은 텍스트를 더 작은 단위로 나누는 하위 단어 토큰화
 
 ---
 
-# 5. 유사한 기능의 LLM <a name="similar_LLM"></a>
+<a name="similar_LLM"></a>
+# 5. 유사한 기능의 LLM
 >## Chat GPT
 자연어 처리의 새로운 지평을 보여주었고, 인공지능의 엄청난 발전을 보여주었으며, 현재도 가장 상용화되어 자연어처리 인공지능의 대명사로 불리우는 AI이다.
 자연어 처리 뿐만 아니라 이미지 처리, 음성 처리 역시 뛰어난 역량을 보여주지만, 완벽한 기능을 사용하기 위해서는 유료 결제가 필수적이며, 사용자의 사용 편의 및 전문성을 올려주는 파인튜닝을 하기 위해서 추가적인 비용이 발생한다. 이는 오픈소스 소프트웨어와 비교하면 부족한 부분이라고 할 수 있지만, 일반 사용자의 편의성이 높은 점과 쉬운 접근성은 아주 큰 강점이라고 할 수 있다.
@@ -339,7 +346,8 @@ Microsoft Copilot은 사용자가 특정 작업에 대한 질문을 할 때, 그
 
 ---
 
-# 6. 인공지능의 방향성 <a name="future"></a>
+<a name="future"></a>
+# 6. 인공지능의 방향성
 자연어 처리 모델이 확장해 나갈 새로운 방향은 몇가지가 있다.
 ### SLM(Small Language Model)
 우선은 더 작은 데이터 규모에서도 좋은 성능을 보여주는 SLM(Small Language Model)이다.</br>
